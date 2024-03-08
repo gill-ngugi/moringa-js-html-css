@@ -23,6 +23,15 @@ Languages Used
 -----------------
 HTML, JavaScript, CSS
 
+Setup Instructions
+----------------------
+1. Clone the project on Github from this link: https://github.com/gill-ngugi/moringa-js-html-css
+2. The functions for the project are in the script.js file.
+3. Navigate to the index.html file to view the HTML.
+4. The CSS styles used in the project are in the styles.css file.
+5. Launch the index.html file in the browser, for example Google Chrome.
+6. Alternatively, you can view the project which is deployed to the gh-pages via this link: $$$$$
+
 GIT Setup
 -----------
 echo "# moringa-js-html-css" >> README.md
