@@ -11,6 +11,18 @@ Author Name
 ----------------
 Gillian Ngugi
 
+Github URL
+--------------
+https://github.com/gill-ngugi/moringa-js-html-css
+
+Link to live site on Github
+-----------------------------
+
+
+Languages Used
+-----------------
+HTML, JavaScript, CSS
+
 GIT Setup
 -----------
 echo "# moringa-js-html-css" >> README.md
