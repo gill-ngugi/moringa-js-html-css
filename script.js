@@ -12,3 +12,8 @@ document.getElementById('birthdateForm').addEventListener('submit', function (ev
         alert('Please enter a valid birthdate.');
     }
 });
+
+function isValidDate(date) {
+    return date instanceof Date && !isNaN(date);
+}
+
