@@ -34,5 +34,9 @@ function getAkanName(dayOfWeek, gender) {
     const maleNames = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame'];
     const femaleNames = ['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'];
 
-   
+    if (gender === 'male') {
+        return maleNames[dayOfWeek];
+    } else {
+        return femaleNames[dayOfWeek];
+    }
 }
