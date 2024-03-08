@@ -17,7 +17,7 @@ https://github.com/gill-ngugi/moringa-js-html-css
 
 Link to live site on Github
 -----------------------------
-
+https://gill-ngugi.github.io/moringa-js-html-css/
 
 Languages Used
 -----------------
@@ -30,7 +30,7 @@ Setup Instructions
 3. Navigate to the index.html file to view the HTML.
 4. The CSS styles used in the project are in the styles.css file.
 5. Launch the index.html file in the browser, for example Google Chrome.
-6. Alternatively, you can view the project which is deployed to the gh-pages via this link: $$$$$
+6. Alternatively, you can view the project which is deployed to the gh-pages via this link: https://gill-ngugi.github.io/moringa-js-html-css/
 
 GIT Setup
 -----------
